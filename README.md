@@ -2,9 +2,11 @@
 
 **How should a parkour game teach its movement?**
 
-A literature-based game design essay and a proposed pilot study for [Kuzey's portfolio](https://github.com/Lloydhf). The practical setting is a short, standalone section inspired by [DASHER](https://github.com/Lloydhf/Dasher), with [Unity Movement Lab](https://github.com/Lloydhf/unity-movement-lab) as a possible future testbed.
+A literature-based game design essay and a proposed pilot study for [Kuzey's portfolio](https://github.com/Lloydhf). The practical setting is a short, standalone section inspired by [DASHER](https://github.com/Lloydhf/Dasher). The separate [Unity project now includes SHIFT and Polar Relay](https://github.com/Lloydhf/unity-movement-lab); it remains a possible future testbed, not an executed version of this study.
 
 **Status:** research proposal and design essay, 20 September 2026. No participant study has been run. No original empirical findings, retention gains or peer review are claimed. The A/B variants described here are not yet implemented in either game.
+
+**Project review, 24 September 2026:** the games have progressed, but no new participant evidence is available. The essay and pilot protocol remain unchanged. [What the new prototypes do and do not add to this study](study/PROJECT-STATUS.md).
 
 ## Abstract
 
@@ -28,6 +30,8 @@ node analysis/summarize.cjs data/template.json
 ```
 
 The template is deliberately empty. Synthetic rows exist only inside tests and must never be presented as participant results. Real participant-level files belong outside this repository; publish only consented, appropriately aggregated results.
+
+The five automated analysis tests passed during the 24 September 2026 review. GitHub Actions also runs them on pushes and pull requests. These checks validate the analysis utility, not the study hypothesis.
 
 ## Contribution and authorship
 
