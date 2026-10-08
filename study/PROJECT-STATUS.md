@@ -1,6 +1,8 @@
-# Project status — 24 September 2026
+# Project status — 8 October 2026
 
-The Unity repository has developed from a movement exercise into two playable prototypes: **Polar Relay**, using magnets and a ball, and **SHIFT — Mass Protocol**, using light/heavy robot modes and route preparation. The original exercises remain available in that repository.
+The Unity repository has developed from a movement exercise into two playable prototypes: **Polar Relay**, using magnets and a ball, and **SHIFT — Mass Protocol**, using light/heavy robot modes and route preparation. SHIFT v0.2 now adds eight campaign levels, weight-driven lifts, collectible cores, stars, local progress and a separate three-level portfolio tour. The original exercises and v0.1 scenes remain available.
+
+The lift's heavy-down / light-up rule is a possible subject for a future instruction study, but it has not replaced the parkour task in the current protocol. Stars and best times describe game progress; they are not study records or evidence of improved learning.
 
 This creates more material for future game-design questions, but it does not supply evidence for the [existing onboarding pilot](PROTOCOL.md). No real participants have completed that study; the data template remains empty. Game logic tests, automated traversal and developer feedback must not be imported as participant sessions or used to claim improved clarity, completion or retention.
 

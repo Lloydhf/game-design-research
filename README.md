@@ -6,7 +6,7 @@ A literature-based game design essay and a proposed pilot study for [Kuzey's por
 
 **Status:** research proposal and design essay, 20 September 2026. No participant study has been run. No original empirical findings, retention gains or peer review are claimed. The A/B variants described here are not yet implemented in either game.
 
-**Project review, 24 September 2026:** the games have progressed, but no new participant evidence is available. The essay and pilot protocol remain unchanged. [What the new prototypes do and do not add to this study](study/PROJECT-STATUS.md).
+**Project review, 8 October 2026:** SHIFT now has eight campaign levels, weight-driven lifts, stars and a separate portfolio tour. No new participant evidence is available; the essay and pilot protocol remain unchanged. [What the prototypes add to future study preparation](study/PROJECT-STATUS.md).
 
 ## Abstract
 
@@ -31,11 +31,11 @@ node analysis/summarize.cjs data/template.json
 
 The template is deliberately empty. Synthetic rows exist only inside tests and must never be presented as participant results. Real participant-level files belong outside this repository; publish only consented, appropriately aggregated results.
 
-The five automated analysis tests passed during the 24 September 2026 review. GitHub Actions also runs them on pushes and pull requests. These checks validate the analysis utility, not the study hypothesis.
+The five automated analysis tests passed again during the 8 October 2026 review. GitHub Actions also runs them on pushes and pull requests. These checks validate the analysis utility, not the study hypothesis.
 
 ## Contribution and authorship
 
-Prepared for Kuzey (Lloydhf) with OpenAI Codex assistance for literature discovery, drafting, protocol design and the analysis utility. The topic was chosen to connect the portfolio's existing projects. Kuzey has not yet independently reviewed the essay, conducted the pilot or supplied a personal interpretation of results. This is a public working draft, not a submitted university assignment or a peer-reviewed publication.
+Prepared for Kuzey (Lloydhf) with OpenAI Codex assistance for literature discovery, drafting, protocol design and the analysis utility. The topic connects the portfolio's existing projects. Kuzey's own review notes and any pilot results have not yet been recorded here. This is a public working draft, not a submitted university assignment or a peer-reviewed publication.
 
 ## Other questions worth investigating later
 
